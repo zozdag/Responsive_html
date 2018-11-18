@@ -1,0 +1,49 @@
+
+@media only screen and (max-width: 600px) {
+    body {
+        background-color: lightblue;
+    }
+    
+    img{width: 100%;}
+}
+
+#duyuru_pano{
+    
+    display: block;
+    background-color:azure;
+    
+    font: 0.9em sans-serif;
+    width: 100%;
+}
+
+#logo
+{
+    padding-left: 50px;
+}
+#orta{
+    margin:100px;
+    margin-left: 38.5%;
+}
+
+#sag_giris_pano{
+    float:right;
+    display: block;
+    background-color:beige;
+    font:0.8em tahoma;
+    
+}
+#sag_giris_pano a{
+    color:blue;
+    text-decoration: none;
+}
+#sag_giris_pano a:hover{
+    color:brown;
+}
+
+#alt{
+    
+    padding-top:150px;
+    position: center;
+    text-align: center;
+    font: 0.655em sans-serif;
+}
